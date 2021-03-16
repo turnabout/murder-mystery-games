@@ -9,11 +9,11 @@ MM games I haven't played
 
 Don't know much about it but it seems highly regarded. From a review:
 
-"That little synopsis doesn't even scratch the surface of the story as the plot
+> That little synopsis doesn't even scratch the surface of the story as the plot
 twists and turns in ways that will have you dizzy before long.  Kidnap, murder,
 betrayal, deceit, revenge - there are very few atrocities not touched upon, and
 the writers bring it all to life with fast-paced action, vivid imagery, and
-lively banter between the characters."
+lively banter between the characters.
 
 ### Root Letter
 <https://store.steampowered.com/app/543240/Letter__Root_Letter/>
