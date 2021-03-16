@@ -6,7 +6,6 @@ MM games I haven't played
 
 ### G-senjou no Maou - The Devil on G-String
 <https://store.steampowered.com/app/377670/Gsenjou_no_Maou__The_Devil_on_GString/>
-
 Don't know much about it but it seems highly regarded. From a review:
 
 > That little synopsis doesn't even scratch the surface of the story as the plot
