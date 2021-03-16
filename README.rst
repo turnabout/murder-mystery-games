@@ -10,11 +10,11 @@ https://store.steampowered.com/app/377670/Gsenjou_no_Maou__The_Devil_on_GString/
 
 Don't know much about it but it seems highly regarded. From a review: 
 
-"That little synopsis doesn't even scratch the surface of the story as the plot
-twists and turns in ways that will have you dizzy before long. Kidnap, murder,
-betrayal, deceit, revenge - there are very few atrocities not touched upon, and
-the writers bring it all to life with fast-paced action, vivid imagery, and
-lively banter between the characters."
+    That little synopsis doesn't even scratch the surface of the story as the plot
+    twists and turns in ways that will have you dizzy before long. Kidnap, murder,
+    betrayal, deceit, revenge - there are very few atrocities not touched upon, and
+    the writers bring it all to life with fast-paced action, vivid imagery, and
+    lively banter between the characters.
 
 Root Letter
 ~~~~~~~~~~~
