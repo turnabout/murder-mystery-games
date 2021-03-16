@@ -6,6 +6,8 @@ MM games I haven't played
 -------------------------
 G-senjou no Maou - The Devil on G-String
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+``40-100 hours``
+
 https://store.steampowered.com/app/377670/Gsenjou_no_Maou__The_Devil_on_GString/
 
 Don't know much about it but it seems highly regarded. From a review: 
@@ -18,6 +20,8 @@ Don't know much about it but it seems highly regarded. From a review:
 
 Root Letter
 ~~~~~~~~~~~
+``15-20 hours``
+
 https://store.steampowered.com/app/543240/Letter__Root_Letter/
 
 Visual novel where you investigate a murder using a letter that was delivered 15
@@ -25,6 +29,8 @@ years late or something.
 
 MMM: Murder Most Unfortunate
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+``5-10 hours``
+
 https://store.steampowered.com/app/525690/MMM_Murder_Most_Misfortunate/
 
 Visual novel. Murder happens in a mansion. You're the suspect and you have to
@@ -32,6 +38,8 @@ prove your innocence.
 
 Remember11 -The Age of Infinity-
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+``IDK hours``
+
 https://vndb.org/v13
 
 https://oldgamesdownload.com/remember-11-the-age-of-infinity/
@@ -42,6 +50,8 @@ following an accident, but keeps the realization someone is out to kill him.
 
 Kara no Shojo
 ~~~~~~~~~~~~~
+``25-50 hours``
+
 https://store.steampowered.com/app/965810/Kara_no_Shojo/
 
 Visual novel where you play as a detective solving a series of murders in
@@ -49,6 +59,8 @@ post-war Japan.
 
 Return of the Obra Dinn
 ~~~~~~~~~~~~~~~~~~~~~~~
+``10-20 hours``
+
 https://store.steampowered.com/app/653530/Return_of_the_Obra_Dinn/
 
 Headache-inducing graphics. You find an empty ship and you need to figure out
@@ -56,12 +68,16 @@ what happened on it or something.
 
 The Wolf Among Us
 ~~~~~~~~~~~~~~~~~
+``10-20 hours``
+
 https://store.steampowered.com/app/250320/The_Wolf_Among_Us/
 
 From Telltale game (Walking Dead series). Don't know much about it but I own it.
 
 428 Shibuya Scramble
 ~~~~~~~~~~~~~~~~~~~~
+``30-50 hours``
+
 https://store.steampowered.com/app/648580/428_Shibuya_Scramble/
 
 I don't even fucking know, this one is weird. Has "real people". They have to
@@ -71,12 +87,16 @@ Really good MM games I've played (favorites)
 --------------------------------------------
 Raging Loop
 ~~~~~~~~~~~
+``30-70 hours``
+
 https://store.steampowered.com/app/648100/Raging_Loop/
 
 Visual novel where you play a "real" game of Werewolf in a secluded village.
 
 Your Turn to Die (incomplete, last chapter not out yet)
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+``10-15 hours``
+
 https://vgperson.com/games/yourturntodie.htm
 
 Free game. 11 people are trapped together in a facility and have to go through a
@@ -84,6 +104,8 @@ Free game. 11 people are trapped together in a facility and have to go through a
 
 Umineko 
 ~~~~~~~
+``A lot of hours``
+
 https://store.steampowered.com/app/406550/Umineko_When_They_Cry__Question_Arcs/
 
 Long visual novel (almost 1 million total word count). Intricate murder mystery
@@ -94,6 +116,8 @@ Others (not murder mystery but...)
 ----------------------------------
 Fatal Twelve
 ~~~~~~~~~~~~
+``30-40 hours``
+
 https://store.steampowered.com/app/620210/Fatal_Twelve/
 
 I think it's not exactly mystery but seems interesting. A girl dies in an
